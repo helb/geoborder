@@ -1,0 +1,10 @@
+{
+  "name": "geoborder.js",
+  "version": "0.0.1",
+  "author": "helb@helb.cz",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "simplify-geojson": "^1.0.3"
+  }
+}
